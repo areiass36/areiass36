@@ -5,7 +5,7 @@ I'm a software engineer/computer enthusiast that loves studying new technologies
 - 💼 My job: I'm a **Junior Softwaree Engineer** [@ClearSale](https://www.clear.sale/?lang=en)
   - I'm currently working in an **international** team 🌎. We are creating new products for our environment.
 - 🏫 College: I'm still in college 😄
-  - I'm studying **Analysis and Software Development**. I also finished a technician course in **Software Development** when I was 16.
+  - I'm studying **Software Engineering**. I also finished a technician course in **Software Development** when I was 16.
 - ⚡ Random facts: 
   - 🥖 I started working with `PHP`,`MySQL` and `JQuery` when I was 18.   
   - 🎮 I try to develop my own Gameboy game, but I never find time to finish it.
