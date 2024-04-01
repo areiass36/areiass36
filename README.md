@@ -12,7 +12,7 @@ I'm a software engineer/computer enthusiast that loves studying new technologies
   - 🏂 I like front-end more than I like to admit.
   - ☕ I do love `Java`, but I hate `Streams API`.
 
-[![top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barretoareias&theme=dark&custom_title=Top%20%languages&layout=compact)](https://github.com/areiass36)
+[![top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=areiass36&theme=dark&custom_title=Top%20%languages&layout=compact)](https://github.com/areiass36)
 
 ## My main tools
 <div style="diplay: flex">
