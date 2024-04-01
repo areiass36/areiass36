@@ -1,7 +1,7 @@
 # Greetings my fellow programmers. I'm Augusto Areias. 😝
 I'm a software engineer/computer enthusiast that loves studying new technologies.
 
-- 👴 My age: **20y** yay!
+- 👴 My age: **21y** yay!
 - 💼 My job: I'm a **Junior Softwaree Engineer** [@ClearSale](https://www.clear.sale/?lang=en)
   - I'm currently working in an **international** team 🌎. We are creating new products for our environment.
 - 🏫 College: I'm still in college 😄
