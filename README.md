@@ -22,4 +22,5 @@ I'm Augusto Areias, a passionate software engineer with a love for all tech rela
   <a href="javascript"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="50"></a>
   <a href="typescript"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/typescript.svg" width="50"></a>
   <a href="node"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/nodejs.svg" width="50"></a>
+  <a href="azure"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/azure-light.svg" width="50"></a>
 </div>
