@@ -2,7 +2,7 @@
 I'm Augusto Areias, a passionate software engineer with a love for all tech related things and retro gaming enthusiast. With a keen eye for detail and a love for problem-solving, I enjoy diving into the intricacies of software development, constantly seeking new challenges and opportunities to grow. 
 
 ## About me:
-- 👴 Age: **21y**.
+- 👴 Age: **22y**.
 - 💼 Job: I'm a **Softwaree Engineer** [@ClearSale](https://www.clear.sale/?lang=en).
 - 🏫 Education: 
   - College: **Software Engineering**; Fatec, Brazil.
