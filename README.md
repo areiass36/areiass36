@@ -3,7 +3,7 @@ I'm Augusto Areias, a passionate software engineer with a love for all tech rela
 
 ## About me:
 - 👴 Age: **22y**.
-- 💼 Job: I'm a **Softwaree Engineer** [@ITlab](https://www.itlab.com.br/pages/en/home/).
+- 💼 Job: I'm a **Softwaree Engineer** [@ITLab](https://www.itlab.com.br/pages/en/home/).
 - 🏫 Education: 
   - College: **Software Engineering**; Fatec, Brazil.
   - Exchange Program: **Computer System Engineering**; IPCA, Portugal.
